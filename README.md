@@ -26,4 +26,4 @@ Flutter ScreenUtil – Ensures a responsive UI on various admin devices (tablets
 
 🧾 Order Processing – View and update the status of customer orders.
 
-🎨 iOS/Cupertino Design – A clean, modern UI optimized for quick administrative tasks.
+🎨 iOS/Cupertino Design – A clean, modern UI optimized for quick administrative tasks.      
