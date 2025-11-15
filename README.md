@@ -1,16 +1,29 @@
-# shopx_dashboard
+# 🛡️ ShopX Admin Dashboard
 
-A new Flutter App.
+The ShopX Admin Dashboard is a standalone application built to manage the e-commerce platform's core operations. It ensures security and efficiency by separating administrative duties from the client application.
 
-## Getting Started
+## 🛠️ Tech Stack :
 
-This project is a starting point for a Flutter application.
+Flutter & Dart – The core framework for cross-platform development.
 
-A few resources to get you started if this is your first Flutter project:
+Firebase Authentication – Secure Admin Login and session management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Firebase Firestore – Database for updating product, order, and user data.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebase Storage – Handling image uploads for new and existing products.
+
+BLoC (Cubit) – State management for reliable data flow and UI updates.
+
+Flutter ScreenUtil – Ensures a responsive UI on various admin devices (tablets/mobile).
+
+## 🚀 Features :
+
+✅ Dedicated Admin Auth – Secure login/signup exclusively for administrators.
+
+🛒 Product Management (CRUD) – Create, view, update, and delete product listings.
+
+📦 Inventory Tracking – Manage stock keeping units (SKUs) and quantities.
+
+🧾 Order Processing – View and update the status of customer orders.
+
+🎨 iOS/Cupertino Design – A clean, modern UI optimized for quick administrative tasks.      
