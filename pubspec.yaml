@@ -19,9 +19,18 @@ dependencies:
   shared_preferences: ^2.5.3
   # State management library that helps implement the BLoC (Business Logic Component) design pattern.
   flutter_bloc: ^9.1.1
+  # Flutter plugin for selecting images from the Android and iOS image library, and taking new pictures with the camera.
+  image_picker: ^1.2.1
+  # Converts already built widgets into skeleton loaders with no extra effort.
+  skeletonizer: ^2.1.0+1
   # A Flutter plugin to use the Firebase Core API, which enables connecting to multiple Firebase apps.
   firebase_core: ^4.2.1
-
+  firebase_storage: ^13.0.4
+  cloud_firestore: ^6.1.0
+  path: ^1.9.1
+  get_it: ^9.0.5
+  dartz: ^0.10.1
+  fluttertoast: ^9.0.0
 
 
 dev_dependencies:
